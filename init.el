@@ -11,6 +11,7 @@
 (require 'flx-ido)
 (require 'ido-ubiquitous)
 (require 'ido-vertical-mode)
+(require 'magit)
 
 
 ; Enable linum mode at startup
