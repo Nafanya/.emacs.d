@@ -8,7 +8,9 @@
 
 ;; Packages
 (require 'nlinum)
-(require 'fix-ido)
+(require 'flx-ido)
+(require 'ido-ubiquitous)
+(require 'ido-vertical-mode)
 
 
 ; Enable linum mode at startup
